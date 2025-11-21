@@ -14,9 +14,10 @@ Este projeto analisa a evolução da inadimplência no Brasil e sua relação co
 ---
 
 ## 🔍 Principais análises
-- Evolução temporal da inadimplência  
-- Comparação com crédito total (normalizado para leitura visual)  
-- Comparação com o IPCA 12 meses  
+- Evolução temporal de cada uma das variáveis  
+- Analise bivariada entre inadimplência e crédito total (normalizado para leitura visual)  
+- Analise bivariada entre inadimplência e IPCA 12 meses
+- Analise bivariada entre inadimplência e Selic   
 - Identificação de ciclos e mudanças de direção  
 - Análises gráficas com foco em comportamento e tendência  
 
